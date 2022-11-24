@@ -1,2 +1,2 @@
-# obsidian_config
+# obsidia  config
 obsidian配置信息
